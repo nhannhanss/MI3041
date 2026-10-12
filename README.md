@@ -11,8 +11,11 @@ Sinh viên thực hiện bài tập cá nhân theo các yêu cầu sau:
  
 3. Sử dung phần mềm thống kê (Python, R, Excel . . . ) để thực hiện các yêu cầu sau: 
 (a) Với một biến định lượng, ước lượng kỳ vọng tổng thể bằng khoảng tin cậy 95%. 
+
 (b) Với một biến định lượng, ước lượng phương sai tổng thể bằng khoảng tin cậy 95%. 
+
 (c) Với một biến định tính có hai giá trị (nhị phân), ước lượng tỷ lệ tổng thể bang khoảng tin cậy 95%. 
+
 (d) Chọn hai nhóm khác nhau trong dữ liệu (dựa trên biến định tính), so sánh kỳ vọng của một biến định lượng giữa hai nhóm bằng cách xây dựng khoảng tin cậy cho hiệu kỳ vọng µ1 - µ2.
 
 4. Viết code tính toán và trình bày kết quả rõ ràng: Ghi rõ công thức đã sử dung. Nêu rõ điều kiện áp dụng của từng công thức. Diễn giải kết quả khoảng tin cậy theo ngữ cảnh dữ liệu.
